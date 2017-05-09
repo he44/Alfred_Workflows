@@ -1,8 +1,14 @@
 ## Decimal to Hexadecimal Converter in Alfred(0.0)
 
 #### Motivation:
-	I took an Operating System course last semester. In this course, I had to do a lot of conversion between decimal numbers and hexadecimal nunmbers(mostly because of memory stuff). I used Windows 10 before, where the system contains a calculator with "programming" mode, under which I can just type in a number in decimal. And then the hex number will just show up there.
-	It took me quite a while to figure out how to get into Mac's programmer-mode calculator. And I think it would still be nice to have an easy and fast way to do the conversion.
+	I took an Operating System course last semester. In this course, I had to do a lot of conversion between 
+	decimal numbers and hexadecimal nunmbers(mostly because of memory stuff). I used Windows 10 before, where 
+	the system contains a calculator with "programming" mode, under which I can just type in a number in 
+	decimal. And then the hex number will just show up there.
+	
+	It took me quite a while to figure out how to get into Mac's programmer-mode calculator. And I think it 
+	would still be nice to have an easy and fast way to do the conversion.
+	
 	Thus I wrote this Alfred workflow.
 
 #### src:
