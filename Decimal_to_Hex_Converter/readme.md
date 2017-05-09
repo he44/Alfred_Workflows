@@ -18,6 +18,9 @@
 	This is the workflow file. To use this workflow,
 	just download this file and open it with Alfred.
 
+#### example_input/example_output:
+	Screenshots of possible usage
+
 #### Usage:
 	1. open Alfred
 	2. type "dh "
