@@ -27,7 +27,7 @@
 
 ###### Possible Improvement:
 	If you are in a desktop with another iTerm window already existing, 
-	this command with bring all those windows to the front. 
+	this command will bring all those windows to the front. 
 	This can be inconveninet some time, but I have not figured out a solution yet.  
 
 ###### Reference:
