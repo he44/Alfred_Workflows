@@ -1,9 +1,14 @@
 ## New iTerm Window(0.0)
 
 #### Motivation:
-	I used a mac and traveled between different desktops a lot. Although I tried to keep my coding work in one or two desktops, I still found myself trying to open a new iTerm window in other desktops a lot.
+	I used a mac and traveled between different desktops a lot. 
+	Although I tried to keep my coding work in one or two desktops, 
+	I still found myself trying to open a new iTerm window in other desktops a lot.
 
-	Previously I would just type "iTerm" in Alfred. But this will bring me to the other desktop where I already have iTerm open. And I have to open a new iTerm window there, then drag it back to the current desktop. I think this is terribly inconvenient.
+	Previously I would just type "iTerm" in Alfred. But this will bring me to 
+	the other desktop where I already have iTerm open. And I have to open a new 
+	iTerm window there, then drag it back to the current desktop. 
+	I think this is terribly inconvenient.
 
 	Thus I decided to write this Alfred workflow.
 
@@ -21,7 +26,9 @@
 	3. Hit Enter
 
 ###### Possible Improvement:
-	If you are in a desktop with another iTerm window already existing, this command with bring all those windows to the front. This can be inconveninet some time, but I have not figured out a solution yet.  
+	If you are in a desktop with another iTerm window already existing, 
+	this command with bring all those windows to the front. 
+	This can be inconveninet some time, but I have not figured out a solution yet.  
 
 ###### Reference:
 
